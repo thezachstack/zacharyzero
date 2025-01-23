@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about government contracting work. I am the contracting site lead for the U.S. Navy's cybersecurity location for the West Coast. 
 - 📫 How to reach me: https://linkedin.com/in/zacharysales
 - ⚡ Fun fact: In my spare time, I run a social media community for active duty and veteran military service members who enjoy skateboarding. 
-- Instagram: @officialmilitaryskate
+- Instagram: @officialmilitaryskate 
 -->
