@@ -1,3 +1,4 @@
+-->
 ## Hi there 👋
 
 **zacharyzero/zacharyzero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://linkedin.com/in/zacharysales
 - ⚡ Fun fact: In my spare time, I run a social media community for active duty and veteran military service members who enjoy skateboarding. 
 - Instagram: @officialmilitaryskate 
--->
 <!--
