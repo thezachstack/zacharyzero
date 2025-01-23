@@ -10,6 +10,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with finding projects that are suitable for my skill level. I'm also looking for a more senior Python coder to help me fine tune my personal projects. 
 - 💬 Ask me about government contracting work. I am the contracting site lead for the U.S. Navy's cybersecurity location for the West Coast. 
 - 📫 How to reach me: https://linkedin.com/in/zacharysales
-- ⚡ Fun fact: In my spare time, I run a social media community for active duty and veteran military service members who enjoy skateboarding. 
-- Instagram: @officialmilitaryskate 
+- ⚡ Fun fact: In my spare time, I run a social media community for active duty and veteran military service members who enjoy skateboarding. (Instagram: @officialmilitaryskate)
 <!--
